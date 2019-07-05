@@ -2,6 +2,11 @@
 chat-push websocket (cliente-servidor)
 
 # Integrantes:
-Carlos Andres Lopez Giraldo
-Jhonier Pineda Quintero
-Richard Murillo Arboleda
+<ul>
+<li>Carlos Andres Lopez Giraldo</li>
+<li>Jhonier Pineda Quintero</li>
+<li>Richard Murillo Arboleda</li>
+</ul>
+
+
+
